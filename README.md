@@ -1,5 +1,7 @@
 # 📊 **Software Sales Dataset**
 
+![Software picture](https://cdn.niceboard.co/boards/salestrax/blog/image-kn50qIjhT.png)
+
 ## 📁 Overview
 The **Software Sales Dataset** contains structured sales records for software products across multiple regions and customer segments. It includes details such as product categories, units sold, revenue, and transaction dates. This dataset is designed for analytical, reporting, and dashboard development purposes.
 
